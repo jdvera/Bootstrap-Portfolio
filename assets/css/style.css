@@ -1,0 +1,41 @@
+body {
+	background-image: url('../images/ep_naturalwhite.png');
+}
+
+header {
+	background-color: white;
+}
+
+.main-content {
+	margin: 0px 30px;
+}
+
+.col-md-7, .col-md-5 {
+	margin-top: 30px;
+}
+
+.work {
+	margin-top: 20px;
+}
+
+.nav {
+	padding: 20px;
+}
+
+.page-wrap {
+	margin: 0px;
+	padding: 0px;
+}
+
+.social {
+  width: 62px;
+  height: 62px;
+  margin-top: 8px;
+  margin-right: 5px;
+}
+
+.footer {
+	color: white;
+	background-color: #666666;
+	text-align: center;
+}
