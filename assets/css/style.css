@@ -14,12 +14,22 @@ header {
 	margin-top: 30px;
 }
 
+#logo {
+  color: #fff;
+  background: #4aaaa5;
+  padding: 20px;
+}
+
 .work {
 	margin-top: 20px;
 }
 
 .nav {
 	padding: 20px;
+}
+
+.navbar {
+	padding: 0px 45px;
 }
 
 .page-wrap {
